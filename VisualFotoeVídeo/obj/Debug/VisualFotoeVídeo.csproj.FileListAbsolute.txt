@@ -1,0 +1,340 @@
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe.config
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.pdb
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.AssemblyReference.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.SuggestedBindingRedirects.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FrmPrincipal.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.Properties.Resources.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.GenerateResource.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CoreCompileInputs.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.exe
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.pdb
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.Fonts.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CopyComplete
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmLogin.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmCadastro.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmEvento.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmPesquisa.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão – 4o Período – 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmAlterarExcluir.resources
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe.config
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.pdb
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.AssemblyReference.cache
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.SuggestedBindingRedirects.cache
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FrmPrincipal.resources
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmAlterarExcluir.resources
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmPesquisa.resources
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmCadastro.resources
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmEvento.resources
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmLogin.resources
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.Properties.Resources.resources
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.GenerateResource.cache
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CoreCompileInputs.cache
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CopyComplete
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.exe
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.pdb
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\mongocrypt.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Bson.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\SharpCompress.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\ZstdSharp.dll
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Bson.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\mongocrypt.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe.config
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.pdb
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.Fonts.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Bson.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\SharpCompress.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\ZstdSharp.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Bson.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.AssemblyReference.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.SuggestedBindingRedirects.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FrmPrincipal.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmAlterarExcluir.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmPesquisa.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmCadastro.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmEvento.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmLogin.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.Properties.Resources.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.GenerateResource.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CoreCompileInputs.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CopyComplete
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.exe
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\DaviVisual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.pdb
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\mongocrypt.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe.config
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.pdb
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Bson.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\SharpCompress.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\ZstdSharp.dll
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Bson.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FrmPrincipal.resources
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmAlterarExcluir.resources
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmPesquisa.resources
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmCadastro.resources
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmEvento.resources
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmLogin.resources
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.Properties.Resources.resources
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CopyComplete
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.exe
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.pdb
+C:\Users\users\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FormEntrarCadastrar.resources
+C:\Users\rober\Desktop\Visual\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FormEntrarCadastrar.resources
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\mongocrypt.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe.config
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.pdb
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Bson.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\SharpCompress.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\ZstdSharp.dll
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Bson.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.AssemblyReference.cache
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FrmPrincipal.resources
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FormEntrarCadastrar.resources
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmAlterarExcluir.resources
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmPesquisa.resources
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmCadastro.resources
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmEvento.resources
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmLogin.resources
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.Properties.Resources.resources
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CopyComplete
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.exe
+C:\Users\rober\Desktop\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.pdb
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\mongocrypt.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe.config
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.pdb
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.Fonts.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\SharpCompress.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\ZstdSharp.dll
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.AssemblyReference.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.SuggestedBindingRedirects.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FrmPrincipal.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FormEntrarCadastrar.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmAlterarExcluir.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmPesquisa.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmCadastro.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmEvento.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmLogin.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.Properties.Resources.resources
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.GenerateResource.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CoreCompileInputs.cache
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CopyComplete
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.exe
+C:\Robert\CIÊNCIA DA COMPUTAÇÃO\4º PERÍODO\Atividade de Extensão 4o Período 2022\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.pdb
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\mongocrypt.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe.config
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.exe
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\VisualFotoeVídeo.pdb
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\MetroFramework.Fonts.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\SharpCompress.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\ZstdSharp.dll
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\DnsClient.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\Snappier.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Buffers.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Memory.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.AccessControl.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Security.Principal.Windows.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.AssemblyReference.cache
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.SuggestedBindingRedirects.cache
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FrmPrincipal.resources
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.FormEntrarCadastrar.resources
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmAlterarExcluir.resources
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmPesquisa.resources
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmCadastro.resources
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmEvento.resources
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.frmLogin.resources
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.Properties.Resources.resources
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.GenerateResource.cache
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CoreCompileInputs.cache
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.csproj.CopyComplete
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.exe
+D:\Visual\VisualFotoeVídeo\VisualFotoeVídeo\obj\Debug\VisualFotoeVídeo.pdb
